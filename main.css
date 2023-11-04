@@ -773,7 +773,7 @@ left: 0px;
   }
 }
 
-@keyframes animate-marquee {
+@keyframesz animate-marquee {
   0% {
     transform: translateX(0%) translateZ(0); 
   }
