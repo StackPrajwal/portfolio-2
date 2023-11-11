@@ -1,6 +1,6 @@
 # My Portfolio
 
-![Portfolio Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APortfolio.hu_full_logo.png&psig=AOvVaw1OXDO901vBXNTEOJ-SbTvM&ust=1699797742785000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiz-ZaOvIIDFQAAAAAdAAAAABAR)
+![Portfolio Logo](https://img.freepik.com/premium-vector/portfolio-word-with-pencil-instead-letter-i-art-design-gallery-concept-vector-conceptual-creative-logo-poster-made-with-special-font_570429-20468.jpg?w=200)
 
 Welcome to my GitHub repository! This is the home of my personal portfolio website, designed to showcase my skills, projects, and experiences. Dive into my world and discover the passion and creativity that drive me.
 
