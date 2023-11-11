@@ -36,5 +36,5 @@ Let's stay connected! Feel free to reach out through the following channels:
 - Email: [iam.prajwaljt@gmail.com](mailto:iam.prajwaljt@gmail.com)
 
 
-Thank you for visiting my portfolio repository. I hope you enjoy exploring my work and learning more about what drives me in the world of [Your Profession or Field].
+Thank you for visiting my portfolio repository. I hope you enjoy exploring my work and learning more about what drives me in the world of Information Technology .
 
