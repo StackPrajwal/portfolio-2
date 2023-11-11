@@ -22,17 +22,12 @@ I am Prajwal Thombare, a passionate and dedicated Software Devloper based in mah
 
 - **Contact Information:** Connect with me easily through the provided contact details.
 
-![Portfolio Screenshot 2](https://yourwebsite.com/images/screenshot2.png)
 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
 
 - **Hosting:** GitHub Pages (, Netlify
-
-## Visit My Portfolio
-
-Ready to explore? Visit my portfolio at [https://yourwebsite.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APortfolio.hu_full_logo.png&psig=AOvVaw1OXDO901vBXNTEOJ-SbTvM&ust=1699797742785000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiz-ZaOvIIDFQAAAAAdAAAAABAR)) and get to know me better.
 
 ## Connect With Me
 
